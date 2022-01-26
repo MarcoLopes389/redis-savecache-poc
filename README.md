@@ -1,4 +1,4 @@
-#Criando Pod Redis
+# Criando Pod Redis
 
 Para criar o pod corretamente, execute o apply do configmap primeiro, depois execute o apply do volume e do volumeClaim, repectivamente.
 Por fim, execute o apply do redis.
