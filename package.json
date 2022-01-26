@@ -1,0 +1,22 @@
+{
+  "name": "redis-savecache-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoLopes389/redis-savecache-poc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoLopes389/redis-savecache-poc/issues"
+  },
+  "homepage": "https://github.com/MarcoLopes389/redis-savecache-poc#readme",
+  "dependencies": {
+    "bullmq": "^1.66.1"
+  }
+}
